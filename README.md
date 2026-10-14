@@ -15,7 +15,7 @@ Sjekksummer (SHA-256) ligger i `SHA256SUMS.txt` i hver release. [Alle versjoner]
 
 ## Installere
 
-**Mac:** Åpne `Munin-mac.dmg` og dra Munin til Programmer. Alpha-versjonen er ikke godkjent av Apple ennå. Stopper Mac-en appen, gå til **Systeminnstillinger → Personvern og sikkerhet** og velg **Åpne likevel**.
+**Mac:** Åpne `Munin-mac.dmg` og dra Munin til Programmer. Appen er signert og notarisert av Apple.
 
 **Windows:** Åpne `Munin-windows-setup.exe`. Installasjonsprogrammet er ikke signert ennå. Advarer Windows, velg **Mer info → Kjør likevel**. Munin installeres for brukeren din og krever ikke administrator.
 
